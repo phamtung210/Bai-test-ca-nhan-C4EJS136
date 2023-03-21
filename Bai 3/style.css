@@ -1,0 +1,39 @@
+body{
+    margin-top: 40px !important
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+    align-items: center;
+    color: #151B32;
+}
+.content-container{
+    width: 380px !important;
+    height: 208px;
+    border-radius: 8px;
+    background-color: #FBFCFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 300px;
+}
+.name{
+    font-size: 18px;
+    font-weight: 900;
+}
+.container{
+    margin-top: 100px 0 !important;
+    max-width: 1200px !important;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    width: max-content;
+    text-align: center !important;
+}
+.img-height{
+    height: 100px; 
+}
